@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmet A. Gultekin</h1>
-<h3 align="center">A passionate iOS Developer</h3>
+<h3 align="center">Cyber Security Enthusiastic</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wolfxanta&label=Profile%20views&color=0e75b6&style=flat" alt="wolfxanta" /> </p>
 
-<p align="center"> - 💬 Ask me about **Swift, iOS SDK, UI/UX,** </p>
+<p align="center"> - 💬 Ask me about **Network Security, Web Application Security** </p>
 
 <p align="center"> - 📫 How to reach me **ahmetgultekiin1@gmail.com** </p>
 
