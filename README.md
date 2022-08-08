@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet A. Gultekin</h1>
-<h3 align="center">Cyber Security Enthusiastic</h3>
+<h3 align="center">Cyber Security Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wolfxanta&label=Profile%20views&color=0e75b6&style=flat" alt="wolfxanta" /> </p>
 
