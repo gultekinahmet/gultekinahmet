@@ -1,8 +1,9 @@
 <div align="center">
 
-  <p>
-  # 💫 About Me:
-  -  I’m currently working as a Cybersecurity Analyst<br>-  I’m currently improve myself on malware analysis and threat intelligence topics<br>
+  
+  💫 **About Me:**
+  <br>
+  - currently working as a Cybersecurity Analyst<br>- currently improve myself on malware analysis and threat intelligence topics<br>
 
 
   <img src="https://random-memer.herokuapp.com/" width="512px"/>
@@ -21,5 +22,5 @@
 
   ---
   [![](https://visitcount.itsvg.in/api?id=gultekinahmet&icon=0&color=9)](https://visitcount.itsvg.in)
-  </p>
+  
 </div>
