@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wolfxanta&label=Profile%20views&color=0e75b6&style=flat" alt="wolfxanta" /> </p>
 
-<p align="center"> - 💬 Ask me about **Network Security, Web Application Security** </p>
+<p align="center"> - 💬 Ask me about **Network Security, Malware Analysis, Threat Intelligence** </p>
 
 <p align="center"> - 📫 How to reach me **ahmetgultekiin1@gmail.com** </p>
 
