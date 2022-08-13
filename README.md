@@ -3,7 +3,7 @@
   
   💫 **About Me:**
   <br>
-  - currently working as a Cybersecurity Analyst<br>- currently improve myself on malware analysis and threat intelligence topics<br>
+  - currently working as a Cybersecurity Analyst<br>- improve myself on malware analysis and threat intelligence topics<br>
 
 
   <img src="https://random-memer.herokuapp.com/" width="512px"/>
