@@ -6,7 +6,8 @@
   - currently working as a Cyber Threat Analyst<br>- improve myself on malware analysis and threat intelligence topics<br>
 
 
-  <img src="https://secret-ridge-96793.herokuapp.com/" width="512px"/>
+  <img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
   ## 🌐 Socials:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmetgultekin12) 
