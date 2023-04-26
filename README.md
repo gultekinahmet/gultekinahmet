@@ -3,7 +3,7 @@
   
   💫 **About Me:**
   <br>
-  - currently working as a Cyber Threat Analyst<br>- improve myself on red team and threat intelligence fields<br>
+  - currently working as a Cyber Threat Analyst<br>- improve myself on Offensive Security and Threat Tntelligence fields<br>
 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
