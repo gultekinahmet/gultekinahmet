@@ -3,7 +3,7 @@
   
   💫 **About Me:**
   <br>
-  - currently working as a Cyber Threat Analyst<br>- improve myself on Offensive Security and Threat Tntelligence fields<br>
+  - currently working as a S2L Engineer<br>- cyber security enthusiast<br>
 
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
